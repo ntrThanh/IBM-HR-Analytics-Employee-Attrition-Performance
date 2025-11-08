@@ -1,1 +1,5 @@
 .venv/
+/.ipynb_checkpoints
+/__pycache__
+
+data_for_models.ipynb

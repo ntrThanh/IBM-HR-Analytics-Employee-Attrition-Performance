@@ -31,7 +31,7 @@ venv\Scripts\activate       # Trên Windows
 
 ### 3. Tạo môi trường 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 4. Tải xuống Jupyter Notebook
